@@ -4,7 +4,7 @@ Este proyecto simula cómo una onda de expansión, causada por una explosión, s
 
 ## Demostración
 
-![Demostración de la Simulación](ruta/al/archivo.gif)
+![Demostración de la Simulación](modsimpf.gif)
 
 ## Descripción
 
