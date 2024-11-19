@@ -1,4 +1,4 @@
-# Simulación de Ondas de Expansión en Guatemala
+# Simulación de Ondas de Expansión en Guatemala Utilizando un Modelo de Difusión
 
 Este proyecto simula cómo una onda de expansión, causada por una explosión, se propaga sobre la topografía real de Guatemala. Utiliza un modelo de **difusión** y datos topográficos reales para representar el terreno. Se aplicaron diferentes **factores de escala** para ajustar los parámetros y obtener una visualización más realista.
 
